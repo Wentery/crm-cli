@@ -1,6 +1,6 @@
-# crm
+# crm-cli
 
-> A Vue.js project
+> 这是一个crm模板，可同时编辑多个detail。
 
 ## Build Setup
 

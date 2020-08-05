@@ -15,7 +15,7 @@
       <el-menu-item class="logo-name" disabled>
         <i class="el-icon-help"></i>
         <!-- <img class="logo" src="@/assets/imgs/yuanbao.jpg" alt=""> -->
-        <span class="name">元保CSS</span>
+        <span class="name">CRM</span>
       </el-menu-item>
       <!-- <my-menu></my-menu> -->
       <template v-for="(item, index) in menu">

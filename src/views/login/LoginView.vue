@@ -4,7 +4,7 @@
       <el-card>
         <h1 class="title">
           <i class="el-icon-help"></i>
-          <span class="name">元保CSS</span>
+          <span class="name">CRM</span>
         </h1>
         <el-form label-width="0">
           <el-form-item>
